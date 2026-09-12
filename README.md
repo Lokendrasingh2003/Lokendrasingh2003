@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Lokendra Singh
 
-<!--
-**Lokendrasingh2003/Lokendrasingh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN Stack | React.js | Node.js
 
-Here are some ideas to get you started:
+I’m a Full Stack Developer focused on building **scalable, responsive, and user-friendly web applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Experienced with **React.js, Node.js, Express.js, MongoDB & REST APIs**
+* 🚀 Currently exploring **Next.js, TypeScript & AI/RAG applications**
+* 🛠️ Built full-stack projects using **MERN, Django, PostgreSQL and AI technologies**
+* 🌱 Continuously learning **System Design, DSA, and modern web technologies**
+* 🤝 Open to collaborating on **Full Stack, Frontend, and AI-powered projects**
+* 📫 Connect with me on [LinkedIn](https://linkedin.com/in/lokendra-singh-rajawat-071095280/)
+
+### 🧰 Tech Stack
+
+**Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Redux Toolkit
+
+**Backend:** Node.js, Express.js, Django REST Framework, REST APIs
+
+**Database:** MongoDB, Mongoose, PostgreSQL, SQL
+
+**AI:** LLMs, RAG, LangChain, ChromaDB, FAISS, OpenRouter
+
+**Tools:** Git, GitHub, VS Code, Docker
+
+---
+
+⭐ Check out my repositories to see some of the projects I've built.
+
